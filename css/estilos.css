@@ -41,3 +41,13 @@ footer{
     text-align: center;
     padding: 0.5em;
 }
+
+#cabecera #logo{
+    width: 22px;
+    vertical-align: middle;
+}
+
+#post{
+    background: white;
+    padding: 1em;
+}
